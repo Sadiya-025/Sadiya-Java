@@ -1,1 +1,5 @@
-# Sadiya-Java
+- 👋 Hi, I’m @Sadiya-025
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Web Development.
+- 🌱 I’m currently learning Java Programming Language
+- 💞️ I’m looking to collaborate on C Programming and HTML Projects
+- 📫 How to reach me wajidmohiuddin025@gmail.com
