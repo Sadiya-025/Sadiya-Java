@@ -42,7 +42,8 @@ public class Buttons {
                 else if (b2.isSelected())
                     gender = "Female";
                 String age = (String) combo.getSelectedItem();
-                JOptionPane.showMessageDialog(frame, "Name: " + name + "\nGender: " + gender + "\nAge: " + age);
+                JOptionPane.showMessageDialog(frame, "Name: " + name + "\nGender: " + gender + "\nAge: " + age,
+                        "Form Data", JOptionPane.INFORMATION_MESSAGE);
             }
         });
         frame.add(label1);
